@@ -37,7 +37,7 @@ brew install ghostscript poppler
 Clone the repository and install Python dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/document-resizer-converter.git
+git clone https://github.com/jayeshthakur/document-resizer-converter.git
 cd document-resizer-converter
 python3 -m venv venv
 source venv/bin/activate       # On Windows use: venv\Scripts\activate
